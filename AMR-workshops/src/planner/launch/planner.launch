@@ -1,0 +1,5 @@
+<launch>
+<node name="simulator_node" pkg="simulator" type="simulator_node"/>
+<node name="gui_node" pkg="gui" type="gui_node"/>
+<node name="planner_xy_node" pkg="planner" type="planner_xy_node"/>
+</launch>

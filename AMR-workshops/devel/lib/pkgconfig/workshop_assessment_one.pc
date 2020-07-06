@@ -1,0 +1,8 @@
+prefix=/home/sdhoro/amr/AMR-workshops/devel
+
+Name: workshop_assessment_one
+Description: Description of workshop_assessment_one
+Version: 0.0.0
+Cflags: -I/home/sdhoro/amr/AMR-workshops/devel/include -I/home/sdhoro/amr/AMR-workshops/src/workshop_assessment_one/include
+Libs: -L${prefix}/lib -lworkshop_assessment_one
+Requires: 

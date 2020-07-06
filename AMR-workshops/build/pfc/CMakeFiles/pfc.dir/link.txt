@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libpfc.so -o /home/sdhoro/amr/AMR-workshops/devel/lib/libpfc.so CMakeFiles/pfc.dir/src/pfc/pfc.cpp.o 

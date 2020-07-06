@@ -1,0 +1,8 @@
+prefix=/home/sdhoro/amr/AMR-workshops/install
+
+Name: executive
+Description: Description of executive
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lexecutive
+Requires: 

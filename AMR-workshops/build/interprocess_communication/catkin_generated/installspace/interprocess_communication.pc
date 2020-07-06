@@ -1,0 +1,8 @@
+prefix=/home/sdhoro/amr/AMR-workshops/install
+
+Name: interprocess_communication
+Description: Description of interprocess_communication
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -linterprocess_communication
+Requires: 

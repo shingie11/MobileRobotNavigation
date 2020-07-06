@@ -1,0 +1,2 @@
+executive:gui:interprocess_communication:localization:perception:pfc:planner:simulator:wa_two
+-DCATKIN_DEVEL_PREFIX=/home/sdhoro/amr/AMR-workshops/devel -DCMAKE_INSTALL_PREFIX=/home/sdhoro/amr/AMR-workshops/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/sdhoro/amr/AMR-workshops/devel
+
+Name: wa_two
+Description: Description of wa_two
+Version: 0.0.0
+Cflags: -I/home/sdhoro/amr/AMR-workshops/devel/include -I/home/sdhoro/amr/AMR-workshops/src/wa_two/include
+Libs: -L${prefix}/lib -lwa_two
+Requires: 
